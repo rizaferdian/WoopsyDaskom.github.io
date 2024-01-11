@@ -1,0 +1,47 @@
+.bukutamu{
+    position: relative;
+    color: #fcdfdf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.pengguna{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 80px;
+}
+#formpengguna{
+    margin-left: 650px;
+    margin-right: auto;
+}
+
+#buttonform {
+    display: block;
+    margin: 0 auto;
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+#buttonform:hover {
+    background-color: #45a049;
+}
+
+label {
+    text-align: left;
+    margin-bottom: 8px;
+    font-size: 22px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
